@@ -1,33 +1,8 @@
-<h1 align="center">
-UI Clone #17 - Vercel (Homepage)
-</h1>
+# ✨ Vercel Homepage UI Clone
 
-<p align="center"><a href="https://vercel.com">Vercel Homepage</a> UI clone for study purposes.</p>
-<p align="center">Click <a href="https://www.youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp">here</a> to the YouTube playlist.</p>
+## 📲 Final Project
+![Vercel UI](https://github.com/Pedro-Murilo/clone-vercel-homepage/blob/master/vercel-img.png)
 
-<p align="center">
-  <a href="https://github.com/rocketseat-content/youtube-clone-vercel-homepage/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/rocketseat-content/youtube-clone-vercel-homepage?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
-  </a>
-</p>
-
-<hr>
-
-## Participants
-
-[<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/sobrinhosergio)
-
-[Sérgio Sobrinho](https://github.com/sobrinhosergio)
-
-## Resources
-
-- [x] HTML, SCSS
-- [x] SVG Images
-
-## Start Dev Environment for VSCode
-
-1. Open project folder in `VSCode`
-2. Install `Live Server` and `Live Sass Compiler` extension
-3. Right click `index.html` > `Open with Live Server`
-4. Access the **generated address** in your browser 🚀
-# clone-vercel-homepage
+### 📋 About
+This clone was built through a video lesson from Rocketseat!
+You can see this video [here](https://www.youtube.com/watch?v=204ewU7NRO0)!
